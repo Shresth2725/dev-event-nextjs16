@@ -23,6 +23,8 @@ const events = [
     title: "Event 3",
     slug: "event-3",
     location: "location-3",
+    date: "Date-1",
+    time: "Time-1",
   },
 ];
 
